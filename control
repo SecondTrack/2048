@@ -1,0 +1,9 @@
+Package: de.mesh.g2048
+Name: 2048
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Das Zahlen-Puzzle
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 6.0)
