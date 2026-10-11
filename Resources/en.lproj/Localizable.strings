@@ -1,0 +1,14 @@
+// 2048 — English (identity / fallback)
+
+// Scoreboard
+"SCORE" = "SCORE";
+"BEST" = "BEST";
+
+// Buttons
+"New Game" = "New Game";
+
+// Game state
+"Game Over" = "Game Over";
+
+// Hints
+"Swipe to move the tiles. Matching numbers merge." = "Swipe to move the tiles. Matching numbers merge.";

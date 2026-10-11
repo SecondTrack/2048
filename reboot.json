@@ -1,0 +1,16 @@
+{
+  "id": "2048",
+  "name": "2048",
+  "short": "Das Zahlen-Puzzle",
+  "category": "Spiele",
+  "status": "da",
+  "ios": [
+    "6.1.6"
+  ],
+  "package": "de.mesh.g2048",
+  "version": "",
+  "repo": "SecondTrack/2048",
+  "requires": "",
+  "license": "GPL-3.0",
+  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+}

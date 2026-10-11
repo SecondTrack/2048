@@ -1,0 +1,14 @@
+// 2048 — Deutsch
+
+// Punktestand
+"SCORE" = "PUNKTE";
+"BEST" = "BESTER";
+
+// Buttons
+"New Game" = "Neues Spiel";
+
+// Spielzustand
+"Game Over" = "Spiel vorbei";
+
+// Hinweise
+"Swipe to move the tiles. Matching numbers merge." = "Wische, um die Kacheln zu bewegen. Gleiche Zahlen verschmelzen.";
