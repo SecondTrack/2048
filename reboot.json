@@ -1,8 +1,8 @@
 {
   "id": "2048",
   "name": "2048",
-  "short": "Das Zahlen-Puzzle",
-  "category": "Spiele",
+  "short": "The number puzzle",
+  "category": "Games",
   "status": "da",
   "ios": [
     "6.1.6"
@@ -12,5 +12,22 @@
   "repo": "SecondTrack/2048",
   "requires": "",
   "license": "GPL-3.0",
-  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+  "install": "GitHub release: latest release, *.deb asset",
+  "bundle": "de.mesh.g2048",
+  "text": "Swipe, combine, beat your best score. Works completely offline.",
+  "features": [
+    "Swipe and combine",
+    "Best score is saved",
+    "Completely offline"
+  ],
+  "icon": "https://raw.githubusercontent.com/SecondTrack/2048/main/Resources/Icon@2x.png",
+  "private": false,
+  "short_de": "Das Zahlen-Puzzle",
+  "category_de": "Spiele",
+  "text_de": "Wischen, kombinieren, Bestwert knacken. Läuft komplett offline.",
+  "features_de": [
+    "Wischen und kombinieren",
+    "Bestwert wird gespeichert",
+    "Komplett offline"
+  ]
 }
